@@ -1,4 +1,4 @@
-# 🌊 Marine Debris Classifier
+#  Marine Debris Classifier
 
 A computer vision project that classifies underwater images as either **Marine Life** or **Plastic Debris** using deep learning.
 

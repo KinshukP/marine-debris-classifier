@@ -24,7 +24,7 @@ The project demonstrates a complete machine learning workflow, including dataset
 - NumPy
 - Pillow (PIL)
 - Matplotlib
-- TensorFlow / Keras *(coming soon)*
+- TensorFlow / Keras
 
 ---
 
@@ -76,7 +76,7 @@ data/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/marine-debris-classifier.git
+git clone https://github.com/KinshukP/marine-debris-classifier.git
 cd marine-debris-classifier
 ```
 
